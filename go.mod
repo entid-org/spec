@@ -8,7 +8,7 @@ go 1.25.0
 toolchain go1.26.5
 
 require (
-	github.com/hashicorp/hcl/v2 v2.24.0
+	github.com/hashicorp/hcl/v2 v2.25.0
 	github.com/zclconf/go-cty v1.19.0
 	google.golang.org/protobuf v1.36.12
 )
